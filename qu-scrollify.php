@@ -481,7 +481,7 @@ class QU_Scrollify_Helper {
 
         wp_enqueue_script(
             'jquery-scrollify',
-            'https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollify/1.0.21/jquery.scrollify.min.js',
+            'https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.21/jquery.scrollify.min.js',
             array( 'jquery' ),
             '1.0.21',
             true
